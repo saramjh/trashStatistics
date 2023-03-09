@@ -1,0 +1,273 @@
+{
+	"data": [
+		{
+			"CITY_JIDT_CD_NM": "전국",
+			"TOT_AMT": 7371709122,
+			"NTN_AMT": 109477897,
+			"SMLL_AMT": 5774954879,
+			"WIDE_SELF_BUDGT": 445559192,
+			"DSTRCT_AID_BUDGT": 59437255,
+			"DSTRCT_SELF_BUDGT": 5269958432,
+			"LOAN": 0,
+			"LOCL_BOND": 34235578,
+			"TAX_FEE": 1452464369,
+			"ETC": 576399
+		},
+		{
+			"CITY_JIDT_CD_NM": "서울",
+			"TOT_AMT": 1304940435,
+			"NTN_AMT": 9883500,
+			"SMLL_AMT": 1009849334,
+			"WIDE_SELF_BUDGT": 141115289,
+			"DSTRCT_AID_BUDGT": 4848145,
+			"DSTRCT_SELF_BUDGT": 863885900,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 285207601,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "부산",
+			"TOT_AMT": 426667238,
+			"NTN_AMT": 7626600,
+			"SMLL_AMT": 302128302,
+			"WIDE_SELF_BUDGT": 45341977,
+			"DSTRCT_AID_BUDGT": 1354939,
+			"DSTRCT_SELF_BUDGT": 255431386,
+			"LOAN": 0,
+			"LOCL_BOND": 30680000,
+			"TAX_FEE": 86232336,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "대구",
+			"TOT_AMT": 352972153,
+			"NTN_AMT": 2737465,
+			"SMLL_AMT": 282692337,
+			"WIDE_SELF_BUDGT": 37205306,
+			"DSTRCT_AID_BUDGT": 3047300,
+			"DSTRCT_SELF_BUDGT": 242439731,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 66965952,
+			"ETC": 576399
+		},
+		{
+			"CITY_JIDT_CD_NM": "인천",
+			"TOT_AMT": 447091940,
+			"NTN_AMT": 4755645,
+			"SMLL_AMT": 328815474,
+			"WIDE_SELF_BUDGT": 51434439,
+			"DSTRCT_AID_BUDGT": 9023551,
+			"DSTRCT_SELF_BUDGT": 268357484,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 113520821,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "광주",
+			"TOT_AMT": 157997954,
+			"NTN_AMT": 0,
+			"SMLL_AMT": 113468766,
+			"WIDE_SELF_BUDGT": 10633456,
+			"DSTRCT_AID_BUDGT": 2675495,
+			"DSTRCT_SELF_BUDGT": 100159815,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 44529188,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "대전",
+			"TOT_AMT": 219625768,
+			"NTN_AMT": 0,
+			"SMLL_AMT": 159951525,
+			"WIDE_SELF_BUDGT": 49184290,
+			"DSTRCT_AID_BUDGT": 2736385,
+			"DSTRCT_SELF_BUDGT": 108030850,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 59674243,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "울산",
+			"TOT_AMT": 155969903,
+			"NTN_AMT": 1544580,
+			"SMLL_AMT": 115147012,
+			"WIDE_SELF_BUDGT": 28888366,
+			"DSTRCT_AID_BUDGT": 835333,
+			"DSTRCT_SELF_BUDGT": 85423313,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 39278311,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "세종",
+			"TOT_AMT": 54994320,
+			"NTN_AMT": 855310,
+			"SMLL_AMT": 47078093,
+			"WIDE_SELF_BUDGT": 47078093,
+			"DSTRCT_AID_BUDGT": 0,
+			"DSTRCT_SELF_BUDGT": 0,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 7060917,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "경기",
+			"TOT_AMT": 1816735638,
+			"NTN_AMT": 3101540,
+			"SMLL_AMT": 1447564098,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 2602229,
+			"DSTRCT_SELF_BUDGT": 1444961869,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 366070000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "강원",
+			"TOT_AMT": 363007582,
+			"NTN_AMT": 23911725,
+			"SMLL_AMT": 291249857,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 13658881,
+			"DSTRCT_SELF_BUDGT": 277590976,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 47846000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "충북",
+			"TOT_AMT": 182544726,
+			"NTN_AMT": 0,
+			"SMLL_AMT": 143301726,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 285810,
+			"DSTRCT_SELF_BUDGT": 143015916,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 39243000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "충남",
+			"TOT_AMT": 261466477,
+			"NTN_AMT": 409500,
+			"SMLL_AMT": 213213977,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 1004660,
+			"DSTRCT_SELF_BUDGT": 212209317,
+			"LOAN": 0,
+			"LOCL_BOND": 2300000,
+			"TAX_FEE": 45543000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "전북",
+			"TOT_AMT": 263728726,
+			"NTN_AMT": 4520916,
+			"SMLL_AMT": 217067232,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 1647265,
+			"DSTRCT_SELF_BUDGT": 215419967,
+			"LOAN": 0,
+			"LOCL_BOND": 1255578,
+			"TAX_FEE": 40885000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "전남",
+			"TOT_AMT": 271506722,
+			"NTN_AMT": 9035159,
+			"SMLL_AMT": 225063563,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 8152563,
+			"DSTRCT_SELF_BUDGT": 216911000,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 37408000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "경북",
+			"TOT_AMT": 442877626,
+			"NTN_AMT": 7216298,
+			"SMLL_AMT": 383606328,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 4340806,
+			"DSTRCT_SELF_BUDGT": 379265522,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 52055000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "경남",
+			"TOT_AMT": 421901460,
+			"NTN_AMT": 9356659,
+			"SMLL_AMT": 319696801,
+			"WIDE_SELF_BUDGT": 0,
+			"DSTRCT_AID_BUDGT": 3223893,
+			"DSTRCT_SELF_BUDGT": 316472908,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 92848000,
+			"ETC": 0
+		},
+		{
+			"CITY_JIDT_CD_NM": "제주",
+			"TOT_AMT": 227680454,
+			"NTN_AMT": 24523000,
+			"SMLL_AMT": 175060454,
+			"WIDE_SELF_BUDGT": 34677976,
+			"DSTRCT_AID_BUDGT": 0,
+			"DSTRCT_SELF_BUDGT": 140382478,
+			"LOAN": 0,
+			"LOCL_BOND": 0,
+			"TAX_FEE": 28097000,
+			"ETC": 0
+		}
+	],
+	"dataHeader": [
+		{
+			"CITY_JIDT_CD_NM": "시도",
+			"TOT_AMT": "총계",
+			"NTN_AMT": "국비",
+			"SMLL_AMT": "지 방 비_소계",
+			"WIDE_SELF_BUDGT": "지 방 비_(광역시도에서만 작성)_자체 예산",
+			"DSTRCT_AID_BUDGT": "지 방 비_(지자체 시군구에서만 작성)_시도지원예산",
+			"DSTRCT_SELF_BUDGT": "지 방 비_(지자체 시군구에서만 작성)_자체예산",
+			"LOAN": "차관",
+			"LOCL_BOND": "지방채",
+			"TAX_FEE": "2019년 세입 수수료_(광역도시에서만 작성)",
+			"ETC": "기타"
+		}
+	],
+	"result": [
+		{
+			"ERR_CODE": "E000",
+			"RESULT": "데이터 전송이 완료되었습니다.",
+			"callId": "API00000000000088573",
+			"YEAR": "2020",
+			"PID": "NTN013",
+			"API_GBN": "NTN",
+			"TITLE": "4-가-1). (시도) 생활폐기물관리예산",
+			"DUNIT": null,
+			"MEMO": "2020년이후"
+		}
+	],
+	"searchOption": [
+		{
+			"CODE": "NTN013",
+			"CODE_NM": "4-가-1). (시도) 생활폐기물관리예산",
+			"SORT_ORDR": 11
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"data": [
+		{ "WSTE_NAME": "폐지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 7924865, "TOTAL_ACTUAL_QUNT": 8959681, "B/A": "113.1" },
+		{ "WSTE_NAME": "폐지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 8805405, "TOTAL_ACTUAL_QUNT": 8805405, "B/A": "-" },
+		{ "WSTE_NAME": "폐지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 90, "TOTAL_ACTUAL_QUNT": 101.752, "B/A": "11.752" },
+		{ "WSTE_NAME": "폐골판지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 6713285, "TOTAL_ACTUAL_QUNT": 7504461, "B/A": "111.8" },
+		{ "WSTE_NAME": "폐골판지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 6102986, "TOTAL_ACTUAL_QUNT": 6102986, "B/A": "-" },
+		{ "WSTE_NAME": "폐골판지", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 110, "TOTAL_ACTUAL_QUNT": 122.964, "B/A": "12.964" },
+		{ "WSTE_NAME": "폐유리(백색)", "WSTE_D_NAME": "백색", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 134048, "TOTAL_ACTUAL_QUNT": 117504, "B/A": "87.7" },
+		{ "WSTE_NAME": "폐유리(백색)", "WSTE_D_NAME": "백색", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 191497, "TOTAL_ACTUAL_QUNT": 191497, "B/A": "-" },
+		{ "WSTE_NAME": "폐유리(백색)", "WSTE_D_NAME": "백색", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 70, "TOTAL_ACTUAL_QUNT": 61.361, "B/A": "△8.639" },
+		{ "WSTE_NAME": "폐유리(녹색)", "WSTE_D_NAME": "녹색", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 103887, "TOTAL_ACTUAL_QUNT": 133469, "B/A": "128.5" },
+		{ "WSTE_NAME": "폐유리(녹색)", "WSTE_D_NAME": "녹색", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 133188, "TOTAL_ACTUAL_QUNT": 133188, "B/A": "-" },
+		{ "WSTE_NAME": "폐유리(녹색)", "WSTE_D_NAME": "녹색", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 78, "TOTAL_ACTUAL_QUNT": 100.211, "B/A": "22.211" },
+		{ "WSTE_NAME": "폐유리(갈색)", "WSTE_D_NAME": "갈색", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 156063, "TOTAL_ACTUAL_QUNT": 177308, "B/A": "113.6" },
+		{ "WSTE_NAME": "폐유리(갈색)", "WSTE_D_NAME": "갈색", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 232930, "TOTAL_ACTUAL_QUNT": 232930, "B/A": "-" },
+		{ "WSTE_NAME": "폐유리(갈색)", "WSTE_D_NAME": "갈색", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 67, "TOTAL_ACTUAL_QUNT": 76.121, "B/A": "9.121" },
+		{ "WSTE_NAME": "철스크랩(철캔포함)", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 17703488, "TOTAL_ACTUAL_QUNT": 16198763, "B/A": "91.5" },
+		{ "WSTE_NAME": "철스크랩(철캔포함)", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "생산량", "TARGET_QUNT": 35406975, "TOTAL_ACTUAL_QUNT": 35406975, "B/A": "-" },
+		{ "WSTE_NAME": "철스크랩(철캔포함)", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "이용률**", "TARGET_QUNT": 50, "TOTAL_ACTUAL_QUNT": 45.75, "B/A": "△4.25" },
+		{ "WSTE_NAME": "폐철캔", "WSTE_D_NAME": "EMPTY", "PROD_USE_TYPE": "사용량", "TARGET_QUNT": 130000, "TOTAL_ACTUAL_QUNT": 81696, "B/A": "62.8" }
+	],
+	"dataHeader": [{ "WSTE_NAME": "WSTE_NAME", "WSTE_D_NAME": "WSTE_D_NAME", "PROD_USE_TYPE": "PROD_USE_TYPE", "TARGET_QUNT": "TARGET_QUNT", "TOTAL_ACTUAL_QUNT": "TOTAL_ACTUAL_QUNT", "B/A": "B/A" }],
+	"result": [
+		{
+			"ERR_CODE": "E000",
+			"RESULT": "데이터 전송이 완료되었습니다.",
+			"callId": "API00000000000088158",
+			"YEAR": "2020",
+			"PID": "RAPP01",
+			"API_GBN": "RAP",
+			"TITLE": "재활용 지정사업자 재활용 실적",
+			"DUNIT": "(단위: 톤/년, %)",
+			"MEMO": "* 이용목표량은 협회(조합)가 제출한 내수량·소비량·생산량에 환경부 고시 이용목표율을 곱한 값임<br/>* * 이용률(%)의 B/A는 이용목표율 대비 실적의 증감을 나타냄<br/>- 일부 지자체 및 환경청은 명칭변경 또는 통폐합에 따라 최신 명칭으로 표현"
+		}
+	],
+	"searchOption": [{ "CODE": "RAPP01", "CODE_NM": "재활용 지정사업자 재활용 실적", "SORT_ORDR": null }]
+}
